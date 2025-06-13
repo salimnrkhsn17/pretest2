@@ -1,0 +1,38 @@
+🤖 Gemini AI Chatbot
+Chatbot sederhana yang terintegrasi dengan Gemini API untuk menjawab pertanyaan secara real-time. Dibuat dengan Node.js dan Express.js.
+
+✨ Fitur
+- Input & balasan real-time dengan Gemini API
+- Antarmuka modern, responsif, dan user-friendly
+- Dibuat dengan Node.js, Express.js, HTML, CSS (tanpa framework)
+
+🚀 Cara Menjalankan Proyek
+
+1. Clone repositori
+```bash
+git clone https://github.com/username/chatbot-app.git
+cd chatbot-app
+
+2. Install npm install 
+3. Buat env :
+   GEMINI_API_KEY= AIzaSyBekr9d3YA1TyYBQDyHQHvVYi3kLCjdias
+4. Jalankan server:
+   node server.js
+5.  Struktur Folder 
+
+## 🗂️ Struktur Folder
+├── public/              # Frontend (HTML, CSS, JS)
+│   └── index.html
+├── server.js            # Backend server
+├── .env                 # File environment (tidak disertakan)
+├── package.json
+└── README.md
+
+6. Teknologi yang Digunakan
+
+ 🛠️ Teknologi
+- Node.js
+- Express.js
+- Gemini API
+- HTML + CSS (Vanilla)
+
